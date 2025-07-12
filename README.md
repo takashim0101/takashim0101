@@ -1,451 +1,80 @@
-<<<<<<< HEAD
-# TradeMe-like Auction Platform
-=======
-# Level 5 Software Engineering Projects
- 
-This repository contains my progression through Missions 0 to 5, each representing a distinct challenge in full-stack development, system design, and problem-solving.
- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-## Mission 0 – Setup and Introduction  
-_Created a page according to the wireframe in our Project Brief.  Making it responsive on mobile screens.
- 
-# Responsive Webpage Project
-For mission 0 I was instructed to build a responsive page using a wireframe reference for Marketing Association NZ
- 
-## 🔗 Built With
- 
-- React
- 
-## 📱 Features
- 
-- Fully responsive layout
-- Mobile, Tablet, Multiple screen layouts
-- Auto adjust Service Library
-- Auto adjust search bar
-- Absolute Zero Overflow
- 
-## 📐 Layout Behavior
-Desktop:
-- 720p, 1080p, 1440p compatible
-- Clean layout with soft keyframe animation on load
-- Auto adjusting grid and size for Service Library, resulting in a cleaner user experience
- 
-Tablet & Smartphone:
-- Compatible with all Tablet & Smartphone sizes
-- Hamburger menu implemented
-- Cleaner stacked search bar
-- Auto adjusted grid and size for Service Library, resulting in a cleaner user experience
- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-## Mission 1 – API and Backend Logic  
- 
-# VIRT Insurance Estimator
- 
-_A full-stack application that analyzes vehicle images using Azure Custom Vision and provides insurance package suggestions based on predicted vehicle attributes. Built with React (frontend) and Express (backend).
- 
+<h1 align="center">Hi 👋, I'm Taka Murachi</h1>
+<h3 align="center">A passionate Geospatial DevOps</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=takashim0101&label=Profile%20views&color=0e75b6&style=flat" alt="takashim0101" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takashim0101" alt="takashim0101" /></a> </p>
+
+- 🔭 I’m currently working on [Trade me Auction site Frontend](https://github.com/takashim0101/Frontend-Mission-5-Trade-Me-Auction-CLI-API-Data-Foundation)
+
+- 🌱 I’m currently learning **Typescript**
+
+- 👯 I’m looking to collaborate on [Trade me Auction site Backend](https://github.com/takashim0101/Backend-Mission-5-Trade-Me-Auction-CLI-API-Data-Foundation-Docker)
+
+- 👨‍💻 All of my projects are available at [https://github.com/takashim0101?tab=repositories](https://github.com/takashim0101?tab=repositories)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **takashim@missionreadyhq.com**
+
+- 📄 Know about my experiences [https://mreadyhq-my.sharepoint.com/:w:/g/personal/takashim_missionreadyhq_com/EVDToYbKjElLhEt5Hsf-n-MBap1VIGBJWIOH7LFnqxWnaA?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1752291557294&web=1](https://mreadyhq-my.sharepoint.com/:w:/g/personal/takashim_missionreadyhq_com/EVDToYbKjElLhEt5Hsf-n-MBap1VIGBJWIOH7LFnqxWnaA?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1752291557294&web=1)
+
+- ⚡ Fun fact **Travel around the world.**
+
 ---
- 
-## 📁 Project Structure
- 
-mission-1/
-├── Turners-VIRT/         → Frontend (React + CSS Modules)
-├── VIRT-Backend/         → Backend (Express + Azure integration)
-    ├── .gitignore        
-├── README.md
- 
- 
-## 🚗 Features
- 
-- Upload vehicle images directly from the frontend  
-- Sends image data to the backend using `arrayBuffer`  
-- Uses Azure Custom Vision to predict vehicle attributes  
-- Displays the top 4 predicted tags with confidence scores  
-- Dynamically renders an insurance premium package image (e.g., SUV, Sedan, Truck)
-- Site functionality to have a stronger feel of the prototype  
- 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/taka-murachi-265293336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taka-murachi-265293336" height="30" width="40" /></a>
+</p>
+
 ---
-## 🔌 Technologies Used
- 
-### Frontend
- 
-- React (Vite)  
-- CSS Modules  
-- File Upload + Image Preview  
- 
-### Backend
- 
-- Node.js  
-- Express  
-- Azure Custom Vision API  
-- dotenv  
- 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</p>
+
 ---
- 
-## 🧠 How It Works
- 
-1. User uploads a vehicle image from the frontend.  
-2. The image is converted to binary (`arrayBuffer`) and sent to the backend.  
-3. The backend forwards it to Azure Custom Vision.  
-4. Azure returns predicted tags with confidence levels.  
-5. Frontend displays a related Insurance Premium image and top 4 tags.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-## Mission 2 – Dynamic Frontend Integration  
-_# Insurance Quote Web App
- 
-## Overview
- 
-This web application provides users with an interactive interface to calculate car insurance quotes using four backend APIs.
- 
----
- 
-## Features
- 
-- **API 1 – Car Value Calculation**  
-  Calculates the estimated car value from the provided model and year using a custom logic based on character positions.
- 
-- **API 2 – Risk Rating Analysis**  
-  Accepts a description of a user’s past claim history and assigns a risk rating from 1 to 5.
- 
-- **API 3 – Quote Calculation**  
-  Computes both yearly and monthly premiums using the car value API 1 and risk rating API 2. Includes validation for numeric and integer inputs.
- 
-- **API 4 – Discount Rate**  
-  Applies a discount to the quote based on the user's age and driving experience.
- 
--------------------------------------------------------------------------------------------------------------------------------------------
- 
-## Mission 3 – AI Integration and System Sync  
-_# React + Vite
- 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
- 
-Currently, two official plugins are available:
- 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
- 
-## Expanding the ESLint configuration
- 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
- 
- 
-## DESCRIPTION
- 
-Designed by Kerehama, This interview chatbot is designed to simulate a job interview experience. It guides users through various stages of a mock interview, starting with initial questions, proceeding to follow-up questions, and culminating in constructive feedback on their performance. The chatbot uses Google's Gemini AI to generate natural and relevant interview questions and responses, making the experience dynamic and interactive. It keeps track of the conversation history and the current interview stage to ensure a coherent and structured interview process.
- 
--------------------------------------------------------------------------------------------------------------------------------------------
- 
-## Mission 4 – Final Product and Deployment  
-_# Turners Car Insurance Recommendation App
- 
-This project is a full-stack application that uses generative AI to guide users through selecting the most appropriate car insurance policy based on their vehicle. Users interact with an AI consultant named Tina, who follows strict rules and asks questions one at a time to determine whether the user qualifies for Mechanical Breakdown Insurance (MBI), Comprehensive Insurance, or Third Party Insurance.
- 
-The frontend is built with React (Vite), and the backend is powered by Node.js and Express. Google’s Gemini 1.5 Flash model is used for the AI logic. The application is containerized using Docker and deployed using Kubernetes with Ingress routing.
- 
-Tina is governed by a system prompt and enforced rules. She must ask for permission before any personal questions, cannot ask the user which plan they want, and must recommend one based only on the vehicle data. MBI is excluded for trucks or racing cars, Comprehensive is allowed only if the vehicle is under 10 years old, and Third Party is always valid. At the end of the process, Tina instructs the user to click a link to Turners and sign up for the recommended policy.
- 
-## .env Configuration (in /Backend)
- 
-```
-Gemini_KEY=your_api_key_here
-PORT=3001
-```
- 
-## How to Build and Run with Docker
- 
-```
-docker build -t insurance-app .
-docker run -p 3001:3001 insurance-app
-```
- 
--------------------------------------------------------------------------------------------------------------------------------------------
- 
-## Mission 5 – Capstone and Reflective Analysis  
-_# TradeMe-like Auction Platform
->>>>>>> 0238b0b (Github Readme)
- 
-## Overview
-This is a full-stack auction platform application that mimics TradeMe's functionality. The application is built using React for the frontend, Node.js/Express for the backend, and MongoDB for the database, with MinIO for object storage, all containerized using Docker.
- 
-## Features
- 
-### Frontend Features
-- **Modern User Interface**
-  - Clean and responsive design
-  - Intuitive navigation with header and footer components
-  - TradeMe-inspired layout and styling
- 
-- **Home Page**
-  - Featured auctions carousel
-  - Quick access to popular categories
-  - Latest listings showcase
- 
-- **Marketplace**
-  - Advanced search functionality
-    - Search by title
-    - Search by description
-    - Category filtering
-    - Condition filtering
-    - Location-based filtering
-  - Real-time search results
-  - Item cards display with essential information
- 
-- **Product Details**
-  - Detailed item information
-  - Image galleries
-  - Auction status and timer
-  - Reserve price indicators
-  - Location information
- 
-- **Watchlist System**
-  - Add/remove items from watchlist
-  - Track favorite items
-  - Quick access to watched items
- 
-- **Category Navigation**
-  - Organized category filtering
-  - Easy browse by category
- 
-- **Compare Feature**
-  - Side-by-side item comparison
-  - Multiple item selection
-  - Key features comparison
- 
-### Backend Features
-- **RESTful API**
-  - Secure endpoints for all operations
-  - JSON response format
-  - Error handling and validation
-  - Advanced endpoints for item comparison
-  - Random item selection by field
-  - User profile management
-  - Health check endpoints
- 
-- **Database Integration**
-  - MongoDB integration with health checks
-  - Efficient data querying
-  - Data persistence
-  - Collection management for items and users
-  - Automated data seeding for development
-  - User and item collections management
- 
-- **Search Functionality**
-  - Advanced query processing
-  - Multiple search criteria support
-  - Efficient search algorithms
-  - Field-specific random item selection
-  - Category-based filtering
- 
-### Technical Features
-- **Docker Integration**
-  - Containerized application components
-  - Easy deployment and scaling
-  - Health check implementation
-  - Service dependency management
-  - Services include:
-    - Frontend (Port 8080)
-    - Backend (Port 4000)
-    - MongoDB (Port 27017)
-    - Mongo Express (Port 8081)
-    - MinIO (Ports 9000, 9001)
-    - Auto Database Seeder
-    - MinIO Bucket Initializer
- 
-- **File Storage**
-  - MinIO integration for object storage
-  - Automated image upload system
-  - Public bucket configuration
-  - Efficient image serving
-  - Web console access (Port 9001)
-  - Automated bucket initialization
- 
-- **Environment Configuration**
-  - Separate environment files for each service
-  - Secure configuration management
-  - Environment-specific settings
-  - Required environment validation
- 
-## 🛠 Technology Stack
-- **Frontend:**
-  - React
-  - Vite
-  - CSS Modules
-  - Nginx (for production serving)
- 
-- **Backend:**
-  - Node.js
-  - Express
-  - MongoDB Node Driver
-  - CORS support
-  - Morgan for logging
- 
-- **Database:**
-  - MongoDB
-  - Mongo Express (for database management)
- 
-- **Storage:**
-  - MinIO Object Storage
-  - MinIO Client (mc)
- 
-- **DevOps:**
-  - Docker
-  - Docker Compose
-  - Environment configuration
-  - Health monitoring
- 
-## Getting Started
- 
-### Prerequisites
-- Docker Desktop (with Docker Engine and Docker Compose)
-- Node.js v18+ (for local development)
-- Git
- 
-### Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SethSamuelCode/MissionReadyLvl5-mission5-P2
-   cd MissionReadyLvl5-mission5-P2
-   ```
- 
-2. Set up environment files:
-   ```bash
-   # Backend environment configuration
-   cp ./backend/.env.example ./backend/.env
-   
-   # MongoDB environment configuration
-   cp ./mongoDB/.env.example ./mongoDB/.env
-   
-   # MinIO environment configuration
-   cp ./minio/.env.example ./minio/.env
-   ```
- 
-3. Configure environment variables:
-   - Update `./backend/.env` with your backend configuration
-   - Update `./mongoDB/.env` with your MongoDB credentials
-   - Update `./minio/.env` with your MinIO settings
- 
-4. Build and start the application:
-   ```bash
-   # Build all containers and start the stack
-   docker compose up --build
- 
-   # Or run in detached mode
-   docker compose up --build -d
-   ```
- 
-5. First-time setup will:
-   - Build all Docker images
-   - Initialize MongoDB with sample data
-   - Create MinIO buckets and upload sample images
-   - Start all services with health checks
- 
-### Managing the Application
-```bash
-# Stop the application
-docker compose down
- 
-# View logs
-docker compose logs -f
- 
-# View specific service logs
-docker compose logs -f backend
-docker compose logs -f frontend
- 
-# Rebuild specific service
-docker compose up --build backend
- 
-# Remove all containers and volumes
-docker compose down -v
-```
- 
-### Accessing the Application
-- Frontend Application: http://localhost:8080
-- Backend API: http://localhost:4000
-- Database Admin Interface: http://localhost:8081
-- MinIO Console: http://localhost:9001
-- MinIO API: http://localhost:9000
- 
-### Troubleshooting
-1. If services fail to start:
-   ```bash
-   # Stop all services and remove volumes
-   docker compose down -v
-   
-   # Rebuild and start
-   docker compose up --build
-   ```
- 
-2. If database seeding fails:
-   ```bash
-   # Restart the seeder service
-   docker compose restart seed_db
-   ```
- 
-3. If MinIO buckets aren't created:
-   ```bash
-   # Restart the createbuckets service
-   docker compose restart createbuckets
-   ```
- 
-## Project Structure
-```
-├── frontend/                        # React frontend application
-│   ├── src/                        # Source code directory
-│   │   ├── components/             # Reusable UI components
-│   │   ├── pages/                  # Page components
-│   │   └── assets/                 # Static assets
-│   └── Dockerfile                  # Frontend container configuration
-├── backend/                        # Node.js backend application
-│   ├── controllers/                # Request handlers
-│   ├── models/                     # Database models
-│   ├── routes/                     # API routes
-│   └── Dockerfile                  # Backend container configuration
-├── mongoDB/                        # Database configuration and seeding
-│   ├── SampleAuctionData.json     # Sample auction items data
-│   └── mockUserData.json          # Sample user data
-├── minio/                          # MinIO object storage configuration
-│   ├── entrypoint.sh              # MinIO initialization script
-│   ├── setBucketOpen.sh           # Bucket policy configuration
-│   └── Dockerfile                  # MinIO container configuration
-├── autoDbSeeder/                   # Automated database seeding
-│   ├── autoSeed.js                # Seeding script
-│   └── Dockerfile                  # Seeder container configuration
-├── images/                         # Sample images for seeding
-└── docker-compose.yaml             # Container orchestration
-```
- 
-## Security Features
-- CORS configuration for API security
-- Environment variable management
-- Request size limitations
-- Origin validation
-- Health check implementation
-- Service dependency management
-- Required environment validation
- 
-## Additional Information
-- The application uses a modular architecture for easy maintenance and scaling
-- Components are designed to be reusable and maintainable
-- Built with best practices for both frontend and backend development
-- Includes data seeding capabilities for development and testing
-- Automated initialization of storage buckets and database
-- Health monitoring for critical services
- 
-## Contributions
-* [Cess](https://github.com/Cess-stack)
-  - Compare page
-* [Kerry](https://github.com/LuCinemax)
-  - Home page
-  - Marketplace page
-* [Seth](https://github.com/SethSamuelCode)
-  - Item page
-  - DevOps
-* [Valentine](https://github.com/valentine-ncube)
-<<<<<<< HEAD
-  - Watchlist page
-=======
-  - Watchlist page
->>>>>>> 0238b0b (Github Readme)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takashim0101&show_icons=true&locale=en&layout=compact" alt="takashim0101" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takashim0101&show_icons=true&locale=en" alt="takashim0101" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takashim0101&" alt="takashim0101" /></p>
